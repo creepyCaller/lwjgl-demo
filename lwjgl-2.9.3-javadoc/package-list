@@ -1,0 +1,7 @@
+org.lwjgl
+org.lwjgl.input
+org.lwjgl.openal
+org.lwjgl.opencl
+org.lwjgl.opencl.api
+org.lwjgl.opengl
+org.lwjgl.opengles
